@@ -10,3 +10,9 @@ C:\Users\quart\OneDrive\Рабочий стол\Новая папка (2)\Librar
 C:\Users\quart\OneDrive\Рабочий стол\Новая папка (2)\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
 C:\Users\quart\OneDrive\Рабочий стол\Новая папка (2)\Library\Library\obj\Debug\Library.dll
 C:\Users\quart\OneDrive\Рабочий стол\Новая папка (2)\Library\Library\obj\Debug\Library.pdb
+C:\Users\quart\OneDrive\Рабочий стол\guardian\Library\Library\bin\Debug\Library.dll
+C:\Users\quart\OneDrive\Рабочий стол\guardian\Library\Library\bin\Debug\Library.pdb
+C:\Users\quart\OneDrive\Рабочий стол\guardian\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\quart\OneDrive\Рабочий стол\guardian\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\quart\OneDrive\Рабочий стол\guardian\Library\Library\obj\Debug\Library.dll
+C:\Users\quart\OneDrive\Рабочий стол\guardian\Library\Library\obj\Debug\Library.pdb

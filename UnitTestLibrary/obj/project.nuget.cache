@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5vrINpBsoVnw2GFg831Yl1LXZ90WgRwE6Vfu4wg8yr2JH6qV9txQypJQSCuK+dbkdXgxqpO4CSyAPaaqF/iqbg==",
+  "dgSpecHash": "33kQV60uLHJBpTf1enxoOg8IzIFPe/U6cooxjG5TMdWWidzKTQ7N8ga4ayWNj3FvEdp5ID5Yx0ZWmnIZ3VGclA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\quart\\OneDrive\\Рабочий стол\\Новая папка (2)\\Library\\UnitTestLibrary\\UnitTestLibrary.csproj",
+  "projectFilePath": "C:\\Users\\quart\\OneDrive\\Рабочий стол\\guardian\\Library\\UnitTestLibrary\\UnitTestLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quart\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\quart\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
